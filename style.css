@@ -1,0 +1,56 @@
+img{
+    width:100px;
+    height:100px;
+    border-style:solid;
+}
+body{
+    background-color:rgba(18, 114, 240, 0.884)
+}
+.college{
+    background-image:url("https://www.parcelpending.com/wp-content/uploads/2019/04/ryan-jacobson-cXUOQWdRV4I-unsplash-scaled-2.jpg");
+    color:white;
+}
+.Money{
+    background-image: url("https://www.gannett-cdn.com/-mm-/27bc5bfd67b6e09a7c240d2b85dae3f0f2cc083b/c=0-188-2000-1313/local/-/media/2021/03/28/USATODAY/usatsports/stock-market-image-getty.jpg");
+    color:rgb(206, 220, 252);
+}
+.C-Style{
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.M-Style{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Here{
+    color:rgba(250, 150, 0, 0.795)
+}
+.here{
+    color:rgb(187, 255, 0)
+
+}
+
+.ufc{
+    border:rgb(230, 18, 18);
+    border-style: double;
+}
+.Yale{
+    border-style: double;
+    border-color: blue;
+    background-color: rgba(0, 119, 255, 0.836);
+}
+.uoc{
+    background-color: cadetblue;
+}
+h3{
+    color: rgb(0, 255, 234);
+}.hereCI{
+    color: rgb(250, 0, 0);
+}
+.hereCH{
+    color: rgb(95, 158, 160);
+}
+.hereY{
+    color: rgb(0, 119, 255);
+}
+    
